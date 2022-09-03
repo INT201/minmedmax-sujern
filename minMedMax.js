@@ -1,6 +1,6 @@
 const { template } = require('@babel/core')
 
-function minMedMax(n1, n2, n3) {
+function minMedMax(num1, num2, num3) {
   const seekValue = [num1,num2,num3]
 
     let maxValue = seekValue[0]
